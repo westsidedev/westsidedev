@@ -10,6 +10,6 @@
 #
 
 <xd align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WestSideDev&theme=aura&layout=compact&show_icons=True" />
-    <img src="https://github-readme-stats.vercel.app/api?username=WestSideDev&layout=compact&theme=aura&text_bold=True&show_icons=True&count_private=True&include_all_commits=True"/>
+    <img src="https://github-readme-stats-iota-teal-95.vercel.app/api/top-langs/?username=WestSideDev&theme=aura&layout=compact&show_icons=True" />
+    <img src="https://github-readme-stats-iota-teal-95.vercel.app/api?username=WestSideDev&layout=compact&theme=aura&text_bold=True&show_icons=True&count_private=True&include_all_commits=True"/>
 </xd>
