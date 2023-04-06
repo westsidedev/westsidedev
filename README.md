@@ -1,4 +1,4 @@
-## Hi!, I'm WestSideDev ☕
+## Hi!👋, I'm WestSideDev!☕
 
 ## 💻Langs
 <p align="left">
