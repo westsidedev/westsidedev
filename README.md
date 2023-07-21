@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats-westsidedev.vercel.app/api?username=WestSideDev&layout=compact&theme=aura&text_bold=True&show_icons=True&count_private=True"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=WestSideDev&theme=aura&hide_border=false&locale=pt_BR&mode=weekly"/>
     <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png"/>
-    <img src="https://github.com/WestSideDev/WestSideDev/blob/output/github-contribution-grid-snake.svg"/>
+    
 
 </xd>
 
